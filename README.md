@@ -1,5 +1,7 @@
 # GFG_DSA_Course
 It includes my study of DSA course on Geeks For Geeks 
+<!---
+commenting on how to write collapsable index for this project
 
 <details>
 <summary>INTRODUCTION</summary>  
@@ -16,5 +18,14 @@ It includes my study of DSA course on Geeks For Geeks
 - link1  
 - link2  
 - link3  
+</details>    
+--->
+
+Index of topic I cover:
+<details>
+<summary>INTRODUCTION</summary>  
+<details>  
+<summary>Articles</summary>
+
+- [Asymptotic Notations](01_Introduction\Articles\Asymptotic_Notations.txt)  
 </details>
-    

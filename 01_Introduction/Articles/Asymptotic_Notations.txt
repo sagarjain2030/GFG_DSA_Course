@@ -1,0 +1,11 @@
+Θ Notation Gives lower and upper bound of function.
+Θ(g(n)) = f(n), there exist positive constants c1,c2 and n0(n_zero), such that:
+	0 <= c1*g(n) <= f(n) <= c2*g(n) for all n >= n0
+	
+Ό Notation gives upper bound of function
+Ό(g(n)) = f(n), there exist positive constant c and n0 such that :
+	0 <= f(n) <= c(g(n)) for all n >= n0
+	
+Ω Notation gives lower bound of function
+Ω(g(n)) = f(n), there exist positive constant c and n0 such that :
+	0 <= c(g(n)) <= f(n) for all n >= n0
