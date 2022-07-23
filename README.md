@@ -27,5 +27,5 @@ Index of topic I cover:
 <details>  
 <summary>Articles</summary>
 
-- [Asymptotic Notations](01_Introduction\Articles\Asymptotic_Notations.txt)  
+- [Asymptotic Notations](01_Introduction/Articles/Asymptotic_Notations.txt)  
 </details>
