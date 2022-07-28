@@ -28,4 +28,5 @@ Index of topic I cover:
 <summary>Articles</summary>
 
 - [Asymptotic Notations](01_Introduction/Articles/Asymptotic_Notations.txt)  
+- [Worst_Average_Best_Case_Time_Complexity](01_Introduction/Articles/Worst_Average_Best_Case_Time_Complexity.txt)  
 </details>
