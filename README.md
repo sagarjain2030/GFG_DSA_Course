@@ -25,9 +25,10 @@ Index of topic I cover:
 <details>
 <summary>INTRODUCTION</summary>  
 <details>  
-<summary>Articles</summary>
+- [Article Readme](01_Introduction/Articles_readme.md)
+- <summary>[Video Readme](01_Introduction/Videos_readme.md)</summary>
+<details>
+	-	[Sum of first n natural number](01_Introduction/Video_Problems/01_SumFirstNnaturalNumbers.cpp)
+</details>
 
-- [Asymptotic Notations](01_Introduction/Articles/Asymptotic_Notations.txt)  
-- [Worst, Average and Best Case Time Complexity](01_Introduction/Articles/Worst_Average_Best_Case_Time_Complexity.txt)  
-- [Analysis of loops](01_Introduction/Articles/Analysis_of_Loops.txt)  
 </details>
