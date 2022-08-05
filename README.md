@@ -24,11 +24,13 @@ commenting on how to write collapsable index for this project
 Index of topic I cover:
 <details>
 <summary>INTRODUCTION</summary>  
-<details>  
-- [Article Readme](01_Introduction/Articles_readme.md)
-- <summary>[Video Readme](01_Introduction/Videos_readme.md)</summary>
-<details>
-	-	[Sum of first n natural number](01_Introduction/Video_Problems/01_SumFirstNnaturalNumbers.cpp)
-</details>
 
+ - [Article Readme](01_Introduction/Articles_readme.md)   
+ - [Video Readme](01_Introduction/Videos_readme.md)   
+     <details>
+     <summary>Problems</summary>
+     
+	  - [Sum of first n natural number](01_Introduction/Video_Problems/01_SumFirstNnaturalNumbers.cpp)	
+	  
+	</details>
 </details>
